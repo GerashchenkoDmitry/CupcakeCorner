@@ -1,10 +1,3 @@
-//
-//  Order.swift
-//  CupcakeCorner
-//
-//  Created by Дмитрий Геращенко on 16.07.2021.
-//
-
 import Foundation
 
 final class Order: ObservableObject, Codable {

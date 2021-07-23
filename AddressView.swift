@@ -1,10 +1,3 @@
-//
-//  AddressView.swift
-//  CupcakeCorner
-//
-//  Created by Дмитрий Геращенко on 16.07.2021.
-//
-
 import SwiftUI
 
 struct AddressView: View {

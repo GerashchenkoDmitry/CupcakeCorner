@@ -1,10 +1,3 @@
-//
-//  CheckoutView.swift
-//  CupcakeCorner
-//
-//  Created by Дмитрий Геращенко on 21.07.2021.
-//
-
 import SwiftUI
 
 struct CheckoutView: View {
